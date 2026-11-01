@@ -1,0 +1,8 @@
+[
+  {"q": "What are your opening hours?", "a": "We are open Monday to Saturday, 10 AM to 7 PM IST."},
+  {"q": "How can I track my order?", "a": "Use the tracking link in your confirmation email, or share your order ID and we will check for you."},
+  {"q": "What is your return policy?", "a": "Items can be returned within 7 days of delivery if unused and in original packaging."},
+  {"q": "How long does delivery take?", "a": "Metro cities take 2-4 days. Other locations take 5-7 days."},
+  {"q": "Which payment methods do you accept?", "a": "We accept UPI, debit/credit cards, net banking and cash on delivery."},
+  {"q": "How do I get a refund?", "a": "Refunds are issued to the original payment method within 5-7 working days after we receive the returned item."}
+]
